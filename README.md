@@ -26,7 +26,7 @@ Python 3.0+ with requests library required. you cant run the script on python 2.
 ### Linux
 ```bash
 # Clone the Repository
-git clone https://github.com/ItsAML/MarzbanUserTemplateManagment.git
+git clone https://github.com/MrCjxer/MarzbanUserTemplateManagment.git
 
 # Change Directory
 cd MarzbanUserTemplateManagment
@@ -43,7 +43,7 @@ python3 main.py
 ### Windows
 ```bash
 # Clone the Repository
-git clone https://github.com/ItsAML/MarzbanUserTemplateManagment.git
+git clone https://github.com/MrCjxer/MarzbanUserTemplateManagment.git
 
 # Navigate to the Repository Directory
 cd MarzbanUserTemplateManagment
